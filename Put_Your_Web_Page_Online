@@ -1,0 +1,10 @@
+goal: Put Your Web Page Online
+checkpoints:
+  - task: Learn about Web Servers
+    resource-url: 'https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server/'
+  - task: Go Static
+    resource-url: 'https://www.quora.com/What-is-the-difference-between-Static-Websites-and-Dynamic-Websites/'
+  - task: Start Simple
+    resource-url: 'http://learntocodewith.me/tutorials/github-pages/'
+  - task: Use Your Own Domain Name (Optional)
+    resource-url: 'http://blog.teamtreehouse.com/using-github-pages-to-host-your-website/'
