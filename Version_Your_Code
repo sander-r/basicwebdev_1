@@ -1,0 +1,12 @@
+goal: Version Your Code
+checkpoints:
+  - task: Control Your Versions
+    resource-url: 'https://www.atlassian.com/git/tutorials/what-is-version-control/'
+  - task: Git down Your Basics
+    resource-url: 'https://backlogtool.com/git-guide/en/intro/intro1_1.html/'
+  - task: Know the Difference between Git and GitHub
+    resource-url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
+  - task: Practice
+    resource-url: 'https://www.codecademy.com/en/courses/learn-git/'
+  - task: Get an Overview
+    resource-url: 'http://rogerdudler.github.io/git-guide/'
