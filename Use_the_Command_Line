@@ -1,0 +1,14 @@
+goal: Use the Command Line
+checkpoints:
+  - task: Find Your Terminal
+    resource-url: 'https://www.davidbaumgold.com/tutorials/command-line/#finding-the-command-line/'
+  - task: Overcome Your Fear of the Command Line
+    resource-url: 'https://zellwk.com/blog/fear-of-command-line/'
+  - task: Learn Basic Commands
+    resource-url: 'https://www.codecademy.com/learn/learn-the-command-line/'
+  - task: Keep a List of the Commands on Hand
+    resource-url: 'https://www.codecademy.com/articles/command-line-commands/'
+  - task: Have Fun with Cows
+    resource-url: 'http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/'
+  - task: Use Bash on Windows (Optional)
+    resource-url: 'http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/'
