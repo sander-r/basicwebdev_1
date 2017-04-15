@@ -1,0 +1,14 @@
+goal: Choose a Code Editor
+checkpoints:
+  - task: Don't Use Word
+    resource-url: 'https://www.youtube.com/watch?v=WaD06I9esx8/'
+  - task: Download Visual Studio Code
+    resource-url: 'http://code.visualstudio.com/'
+  - task: Master Its Powers
+    resource-url: 'https://channel9.msdn.com/Blogs/raw-tech/Beginners-Guide-to-VS-Code/'
+  - task: Get Lazy
+    resource-url: 'https://code.visualstudio.com/docs/languages/javascript/'
+  - task: Consider Alternatives
+    resource-url: 'http://blog.liveedu.tv/10-best-text-editors-programming-2016/'
+  - task: Become a Masochist (Optional)
+    resource-url : 'http://vimcasts.org/episodes/'
