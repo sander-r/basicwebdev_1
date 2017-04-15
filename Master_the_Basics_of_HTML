@@ -1,0 +1,15 @@
+
+goal: Master the Basics of HTML
+checkpoints:
+  - task: Learn HTML Speak
+    resource-url: 'https://developer.mozilla.org/en/docs/Web/Guide/HTML/Introduction/'
+  - task: Create an HTML Document
+    resource-url: 'http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-html--webdesign-10144/'
+  - task: Do It Again
+    resource-url: 'https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro/'
+  - task: Deep Dive into HTML Structures
+    resource-url: 'http://learn.shayhowe.com/html-css/getting-to-know-html/'
+  - task: Make It Semantic
+    resource-url: 'https://boagworld.com/dev/semantic-code-what-why-how/'
+  - task: Keep It Semantic
+    resource-url: 'https://webdesign.tutsplus.com/courses/semantic-html-how-to-structure-web-pages/'
