@@ -8,3 +8,5 @@ checkpoints:
     resource-url: 'http://learntocodewith.me/tutorials/github-pages/'
   - task: Use Your Own Domain Name (Optional)
     resource-url: 'http://blog.teamtreehouse.com/using-github-pages-to-host-your-website/'
+  - task: Register Your Own Domain Name (Optional)
+    resource-url: 'http://www.pcworld.com/article/241722/how_to_register_your_own_domain_name.html'
