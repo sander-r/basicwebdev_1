@@ -10,5 +10,3 @@ checkpoints:
     resource-url: 'https://code.visualstudio.com/docs/languages/javascript/'
   - task: Consider Alternatives
     resource-url: 'http://blog.liveedu.tv/10-best-text-editors-programming-2016/'
-  - task: Become a Masochist (Optional)
-    resource-url : 'http://vimcasts.org/episodes/'
