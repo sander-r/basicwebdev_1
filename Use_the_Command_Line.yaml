@@ -12,3 +12,5 @@ checkpoints:
     resource-url: 'http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/'
   - task: Use Bash on Windows (Optional)
     resource-url: 'http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/'
+  - task: Use iTerm2 on Mac (Optional)
+    resource-url: 'https://null-byte.wonderhowto.com/how-to/mac-for-hackers-install-iterm2-using-terminal-0174142/'
